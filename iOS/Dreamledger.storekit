@@ -1,0 +1,27 @@
+{
+  "identifier": "0",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "3.99",
+      "familyShareable": false,
+      "internalID": "0",
+      "localizations": [
+        {
+          "description": "Search recurring symbols and tags across every dream entry.",
+          "displayName": "Symbol Search",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.dreamjournal2.pro",
+      "referenceName": "Symbol Search",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 1
+  }
+}
